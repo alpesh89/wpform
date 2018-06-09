@@ -1,5 +1,5 @@
 # Add Country Field in WPForm
-In WpForm, If you need to add only country field use foolowing method.
+In WpForm, If you need to add only country field use folowing method.
 
 Add a dropdown field to your form, and under “Advanced Options” add “country” as a CSS class. Then add the following code to your theme’s functions.php file.
 
